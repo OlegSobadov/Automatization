@@ -9,6 +9,7 @@ Auto Import Modules is a utility script that dynamically imports specified modul
 - [Usage](#usage)
 - [Module Import](#module-import)
 - [Contributing](#contributing)
+- [Contact](#contact)
 - [License](#license)
 
 ## Installation
