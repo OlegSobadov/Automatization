@@ -68,7 +68,8 @@ def auto_import_modules(path):
     globals_dict.update(sys.modules)
 
     with open(path, 'r') as file:
-        module_names = [line.strip() for line in file]
+        module_names = tuple([line.strip() for line in file])
+        
 
     for module_name in module_names:
         if module_name in globals_dict:
