@@ -5,6 +5,7 @@
 | # | Title | Description |
 |---|-------|----------|
 | 1 | [web browser](./automated-web-browsing/README.md) | [multiply_urls](./automated-web-browsing/multiply_urls.py) |
+| 2 | [modules](./modules/README.md) | [autoimports](./modules/autoimports.py) |
 | ... | ... | ... |
 
 
